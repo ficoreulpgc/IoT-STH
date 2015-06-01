@@ -1,1 +1,2 @@
-* [BUG] Use dots (".") instead of minus ("-") in version codes for proper packaging (#108)
+- [BUG] Use dots (".") instead of minus ("-") in version codes for proper packaging (#108)
+- [BUG] Log error if was not possible to get the collection for writing raw and/or aggregated data
